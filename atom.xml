@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kewinwang.github.com/atom.xml" rel="self"/>
   <link href="http://kewinwang.github.com/"/>
-  <updated>2013-04-07T07:07:51+00:00</updated>
+  <updated>2013-04-07T07:29:39+00:00</updated>
   <id>http://kewinwang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ruby-learning]]></title>
+    <link href="http://kewinwang.github.com/blog/2013/04/07/ruby-learning/"/>
+    <updated>2013-04-07T07:27:00+00:00</updated>
+    <id>http://kewinwang.github.com/blog/2013/04/07/ruby-learning</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[start use Octpress to write blog]]></title>

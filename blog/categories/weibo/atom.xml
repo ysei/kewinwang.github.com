@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: weibo | My Octopress Blog]]></title>
+  <link href="http://kewinwang.github.com/blog/categories/weibo/atom.xml" rel="self"/>
+  <link href="http://kewinwang.github.com/"/>
+  <updated>2013-04-07T07:29:39+00:00</updated>
+  <id>http://kewinwang.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ruby-learning]]></title>
+    <link href="http://kewinwang.github.com/blog/2013/04/07/ruby-learning/"/>
+    <updated>2013-04-07T07:27:00+00:00</updated>
+    <id>http://kewinwang.github.com/blog/2013/04/07/ruby-learning</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
