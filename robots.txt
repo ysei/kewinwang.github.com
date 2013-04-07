@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kewinwang.github.com/sitemap.xml 
