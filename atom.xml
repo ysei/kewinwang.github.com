@@ -4,7 +4,7 @@
   <title><![CDATA[Kewin's Octopress Blog]]></title>
   <link href="http://kewinwang.github.com/atom.xml" rel="self"/>
   <link href="http://kewinwang.github.com/"/>
-  <updated>2013-04-07T08:48:35+00:00</updated>
+  <updated>2013-04-09T09:05:40+00:00</updated>
   <id>http://kewinwang.github.com/</id>
   <author>
     <name><![CDATA[Kewin]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Today is sunshine]]></title>
+    <link href="http://kewinwang.github.com/blog/2013/04/09/today-is-sunshine/"/>
+    <updated>2013-04-09T08:57:00+00:00</updated>
+    <id>http://kewinwang.github.com/blog/2013/04/09/today-is-sunshine</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ruby-learning]]></title>

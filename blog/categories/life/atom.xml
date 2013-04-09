@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: programming | Kewin's Octopress Blog]]></title>
-  <link href="http://kewinwang.github.com/blog/categories/programming/atom.xml" rel="self"/>
+  <title><![CDATA[Category: life | Kewin's Octopress Blog]]></title>
+  <link href="http://kewinwang.github.com/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://kewinwang.github.com/"/>
   <updated>2013-04-09T09:05:40+00:00</updated>
   <id>http://kewinwang.github.com/</id>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ruby-learning]]></title>
-    <link href="http://kewinwang.github.com/blog/2013/04/07/ruby-learning/"/>
-    <updated>2013-04-07T07:27:00+00:00</updated>
-    <id>http://kewinwang.github.com/blog/2013/04/07/ruby-learning</id>
+    <title type="html"><![CDATA[Today is sunshine]]></title>
+    <link href="http://kewinwang.github.com/blog/2013/04/09/today-is-sunshine/"/>
+    <updated>2013-04-09T08:57:00+00:00</updated>
+    <id>http://kewinwang.github.com/blog/2013/04/09/today-is-sunshine</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
